@@ -9,6 +9,9 @@
 </div>
 
 <p align="center">
+  <a href="https://vinaykhosya.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-vinaykhosya.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/vinaykhosya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,22 +21,32 @@
   <a href="https://github.com/vinaykhosya?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-21+-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <a href="https://github.com/vinaykhosya">
-    <img src="https://img.shields.io/badge/NSUT%20Delhi-ECE%20(AI%2FML)-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" alt="NSUT Delhi" />
-  </a>
 </p>
 
 ---
 
 ### About
 
-Applied Machine Learning Engineer with hands-on industry experience taking AI systems from research prototypes to production environments across **industrial automation**, **cybersecurity**, and **contactless healthcare**.
-
-- **Education**: B.Tech in Electronics & Communication Engineering (Specialization in AI & Machine Learning) at **Netaji Subhas University of Technology (NSUT), Delhi**.
-- **Cybersecurity Systems**: Built **GuardEye** during my research internship with the **Gurugram Police Cyber Security Division** — an offline multi-model malware detection engine analyzing Android APKs and binaries using PyTorch & FAISS.
-- **Industrial AI & Vision**: Engineered real-time OCR pipelines, defect detection models, and edge inference optimization at **ThirdEye AI (JBM Group)** & **Atharvva AI**.
-- **Biomedical & Signal Processing**: Built contactless vitals and iris-based biometric estimation pipelines at **ElectraWireless**.
-- **Core Focus**: Persistent LLM Memory Architectures, Edge Neural Inference, Local Privacy-Preserving AI, and Agentic Systems.
+<table>
+  <tr>
+    <td width="28%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/vinaykhosya/vinaykhosya/main/assets/profile.jpg" alt="Vinay Khosya" width="180" style="border-radius: 12px; margin-top: 8px;" />
+      <br/>
+      <b>Vinay Khosya</b><br/>
+      <sub>Applied ML Engineer</sub>
+    </td>
+    <td width="72%" valign="top">
+      <p>Applied Machine Learning Engineer with hands-on industry experience taking AI systems from research prototypes to production environments across <b>industrial automation</b>, <b>cybersecurity</b>, and <b>contactless healthcare</b>.</p>
+      <ul>
+        <li><b>Education</b>: B.Tech in Electronics & Communication Engineering (Specialization in AI & Machine Learning) at <b>Netaji Subhas University of Technology (NSUT), Delhi</b>.</li>
+        <li><b>Cybersecurity Systems</b>: Built <b>GuardEye</b> during research internship with <b>Gurugram Police Cyber Security Division</b> — offline multi-model malware detection engine (PyTorch & FAISS).</li>
+        <li><b>Industrial AI & Vision</b>: Real-time OCR pipelines and edge inference optimization at <b>ThirdEye AI (JBM Group)</b> & <b>Atharvva AI</b>.</li>
+        <li><b>Biomedical Systems</b>: Contactless vital estimation (rPPG) and iris-based biometric analysis at <b>ElectraWireless</b>.</li>
+        <li><b>Core Focus</b>: Persistent LLM Memory Architectures, Edge Neural Inference, Artificial Life Simulations, and Agentic Systems.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -90,46 +103,47 @@ Applied Machine Learning Engineer with hands-on industry experience taking AI sy
 
 ---
 
-### Featured Systems & Repositories
+### Featured Systems & Flagship Research
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/GuardEyee">GuardEye</a></h3>
+      <h3 align="center"><a href="https://github.com/vinaykhosya/project-genesis">🌌 Project Genesis</a></h3>
+      <p align="center"><b>Agentic Artificial Life & Evolutionary Biology Simulator</b></p>
+      <p>High-resolution research simulation modeling neural cognition, genetic speciation, and emergent civilization dynamics in multi-agent ecosystems.</p>
+      <p><b>Live Web Portal:</b> <a href="https://portal-navy-five-30.vercel.app">portal-navy-five-30.vercel.app</a></p>
+      <p><b>Tech:</b> <code>Python</code> <code>Autonomous Agents</code> <code>Evolutionary AI</code> <code>Neural Networks</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/vinaykhosya/GuardEyee">🛡️ GuardEye</a></h3>
       <p align="center"><b>Offline AI Malware Scanner & Forensic Threat Detection</b></p>
       <p>Multi-stage offline-first malware analysis pipeline analyzing APKs, hidden binaries, and documents without cloud dependencies. Built during Gurugram Police Cyber Security Division internship.</p>
       <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>FAISS</code> <code>ADB</code> <code>Computer Vision</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/secondlife">SecondLife & Memory System</a></h3>
+      <h3 align="center"><a href="https://github.com/vinaykhosya/secondlife">🧠 SecondLife & Memory System</a></h3>
       <p align="center"><b>Persistent Multi-Tiered Memory Architecture for LLMs</b></p>
       <p>Advanced AI memory architecture combining vector retrieval, episodic memory graph, and persistent memory retention with sub-100ms retrieval times across 10k+ context entries.</p>
       <p><b>Tech:</b> <code>TypeScript</code> <code>Vector Embeddings</code> <code>FastAPI</code> <code>LLM Reasoning</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/electra">Electra</a></h3>
+      <h3 align="center"><a href="https://github.com/vinaykhosya/electra">⚡ Electra</a></h3>
       <p align="center"><b>Contactless AI Health & Vital Monitoring System</b></p>
       <p>End-to-end computer vision pipeline for remote photoplethysmography (rPPG) vital sign estimation, contactless pulse detection, and iris-based biometric health analysis.</p>
       <p><b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>Signal Processing</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/voice-recognition">Edge Voice AI</a></h3>
+      <h3 align="center"><a href="https://github.com/vinaykhosya/voice-recognition">🎙️ Edge Voice AI</a></h3>
       <p align="center"><b>Embedded Edge Keyword Spotting & Voice Recognition</b></p>
       <p>Lightweight acoustic feature extraction and on-device machine learning inference designed for microcontrollers with extreme memory and power constraints.</p>
       <p><b>Tech:</b> <code>C++</code> <code>ESP32</code> <code>Edge Impulse</code> <code>Embedded Systems</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/project-genesis">Project Genesis</a></h3>
-      <p align="center"><b>Agentic Artificial Life & Evolutionary Biology Simulator</b></p>
-      <p>Complex multi-agent simulation exploring emergent behaviors, genetic algorithms, and evolutionary survival dynamics in simulated ecosystems.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>Autonomous Agents</code> <code>Simulation Modeling</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/vinaykhosya/helios">Helios</a></h3>
+      <h3 align="center"><a href="https://github.com/vinaykhosya/helios">🚀 Helios</a></h3>
       <p align="center"><b>AI Career Intelligence & Job Matching Engine</b></p>
       <p>Autonomous career intelligence platform integrating semantic resume parsing, skill matching vectors, and automated job pipeline tracking.</p>
       <p><b>Tech:</b> <code>Python</code> <code>NLP</code> <code>FastAPI</code> <code>Next.js</code></p>
@@ -163,6 +177,9 @@ Applied Machine Learning Engineer with hands-on industry experience taking AI sy
   <p>Open to discussions around applied AI systems, research collaborations, open-source projects, and engineering opportunities.</p>
   
   <p>
+    <a href="https://vinaykhosya.com">
+      <img src="https://img.shields.io/badge/Website-vinaykhosya.com-38BDF8?style=flat-square&logo=google-chrome&logoColor=white" />
+    </a>
     <a href="https://linkedin.com/in/vinaykhosya">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
