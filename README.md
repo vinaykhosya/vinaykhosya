@@ -111,7 +111,7 @@
       <h3 align="center"><a href="https://github.com/vinaykhosya/project-genesis">🌌 Project Genesis</a></h3>
       <p align="center"><b>Agentic Artificial Life & Evolutionary Biology Simulator</b></p>
       <p>High-resolution research simulation modeling neural cognition, genetic speciation, and emergent civilization dynamics in multi-agent ecosystems.</p>
-      <p><b>Live Web Portal:</b> <a href="https://portal-navy-five-30.vercel.app">portal-navy-five-30.vercel.app</a></p>
+      <p><b>Live Web Portal:</b> <a href="https://genesis.vinaykhosya.com">genesis.vinaykhosya.com</a></p>
       <p><b>Tech:</b> <code>Python</code> <code>Autonomous Agents</code> <code>Evolutionary AI</code> <code>Neural Networks</code></p>
     </td>
     <td width="50%" valign="top">
